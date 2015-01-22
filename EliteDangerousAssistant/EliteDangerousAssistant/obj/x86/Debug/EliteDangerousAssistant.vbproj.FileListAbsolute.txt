@@ -1,0 +1,66 @@
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.exe
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.pdb
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.xml
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.MainForm.resources
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.Resources.resources
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.vbproj.GenerateResource.Cache
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.exe
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.xml
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.pdb
+D:\Program Data\Projects\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.exe.config
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.exe.config
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.exe
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.xml
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.pdb
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.exe
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.pdb
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.xml
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\tessnet2_32.dll
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\tessnet2_32.pdb
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.vbprojResolveAssemblyReference.cache
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.MainForm.resources
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.Resources.resources
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.vbproj.GenerateResource.Cache
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\Icon.ico
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\x64\liblept168.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\x64\libtesseract302.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\x86\liblept168.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\x86\libtesseract302.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EDData
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\tessdata\big.traineddata
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\Eurostile.ttf
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.exe.config
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.pdb
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\Tesseract.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\Tesseract.xml
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.vbprojResolveAssemblyReference.cache
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.DrawingSurface.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.About.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.MainForm.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.Resources.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.Options.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.vbproj.GenerateResource.Cache
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.pdb
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\Icon.ico
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\x64\liblept168.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\x64\libtesseract302.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\x86\liblept168.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\x86\libtesseract302.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EDData
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\tessdata\big.traineddata
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\Eurostile.ttf
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.exe.config
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.exe
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\EliteDangerousAssistant.pdb
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\Tesseract.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Debug\Tesseract.xml
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.DrawingSurface.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.About.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.MainForm.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.Resources.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.Options.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.vbproj.GenerateResource.Cache
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.exe
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Debug\EliteDangerousAssistant.pdb

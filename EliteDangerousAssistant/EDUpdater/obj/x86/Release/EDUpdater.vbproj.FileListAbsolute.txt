@@ -1,0 +1,13 @@
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\bin\Release\EDUpdater.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.UpdaterForm.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.Resources.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.vbproj.GenerateResource.Cache
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.exe
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\bin\Release\EDUpdater.exe.config
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\bin\Release\EDUpdater.exe
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.UpdaterForm.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.Resources.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.vbproj.GenerateResource.Cache
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\bin\Release\EDUpdater.exe.config
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Release\EDUpdater.vbprojResolveAssemblyReference.cache

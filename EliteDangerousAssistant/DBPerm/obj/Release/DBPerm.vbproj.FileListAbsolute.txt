@@ -1,0 +1,9 @@
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\bin\Release\DBPerm.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\bin\Release\DBPerm.pdb
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\bin\Release\DBPerm.xml
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Release\DBPerm.Resources.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Release\DBPerm.vbproj.GenerateResource.Cache
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Release\DBPerm.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Release\DBPerm.xml
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Release\DBPerm.pdb
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\bin\Release\Class1.vb

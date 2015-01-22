@@ -1,0 +1,16 @@
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\bin\Debug\EDUpdater.exe.config
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\bin\Debug\EDUpdater.exe
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\bin\Debug\EDUpdater.pdb
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.UpdaterForm.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.Resources.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.vbproj.GenerateResource.Cache
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.exe
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.pdb
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.UpdaterForm.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.Resources.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.vbproj.GenerateResource.Cache
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\bin\Debug\EDUpdater.exe.config
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\bin\Debug\EDUpdater.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\bin\Debug\EDUpdater.pdb
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EDUpdater\obj\x86\Debug\EDUpdater.pdb

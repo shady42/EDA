@@ -1,0 +1,18 @@
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\bin\Debug\Class1.vb
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\bin\Debug\DBPerm.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\bin\Debug\DBPerm.pdb
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\bin\Debug\DBPerm.xml
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.Resources.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.vbproj.GenerateResource.Cache
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.xml
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.pdb
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\bin\Debug\Class1.vb
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\bin\Debug\DBPerm.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\bin\Debug\DBPerm.pdb
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\bin\Debug\DBPerm.xml
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.Resources.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.vbproj.GenerateResource.Cache
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.xml
+U:\1 - personal\Elite\EliteDangerousAssistant\DBPerm\obj\Debug\DBPerm.pdb

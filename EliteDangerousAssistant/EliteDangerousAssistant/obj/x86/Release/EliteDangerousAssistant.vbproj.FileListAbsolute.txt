@@ -1,0 +1,54 @@
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EliteDangerousAssistant.exe.config
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EliteDangerousAssistant.exe
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EliteDangerousAssistant.pdb
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EliteDangerousAssistant.xml
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\tessnet2_32.dll
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\tessnet2_32.pdb
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.MainForm.resources
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.Resources.resources
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.vbproj.GenerateResource.Cache
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.exe
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.xml
+U:\1 - personal\VS2010\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.pdb
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Icon.ico
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\x64\liblept168.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\x64\libtesseract302.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\x86\liblept168.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\x86\libtesseract302.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EliteDangerousAssistant.exe.config
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EliteDangerousAssistant.exe
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Magick.NET-AnyCPU.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Tesseract.dll
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Tesseract.xml
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.DrawingSurface.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.About.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.MainForm.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.Resources.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.Options.resources
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.vbproj.GenerateResource.Cache
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Icon.ico
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\x64\liblept168.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\x64\libtesseract302.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\x86\liblept168.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\x86\libtesseract302.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Eurostile.ttf
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EliteDangerousAssistant.exe.config
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EliteDangerousAssistant.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Magick.NET-AnyCPU.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Tesseract.dll
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Tesseract.xml
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.DrawingSurface.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.About.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.MainForm.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.Resources.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.Options.resources
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.vbproj.GenerateResource.Cache
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.exe
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EDData
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\tessdata\big.traineddata
+U:\1 - personal\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.vbprojResolveAssemblyReference.cache
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\EDData
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\tessdata\big.traineddata
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\bin\Release\Eurostile.ttf
+D:\Program Data\Projects\Elite\EliteDangerousAssistant\EliteDangerousAssistant\obj\x86\Release\EliteDangerousAssistant.vbprojResolveAssemblyReference.cache

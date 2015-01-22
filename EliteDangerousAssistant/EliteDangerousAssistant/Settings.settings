@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLiteConn" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OP_OCR_tessdata_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OP_OCR_temp_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OP_GEN_DBFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OP_GEN_EDProcess" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EliteDangerous32</Value>
+    </Setting>
+    <Setting Name="OP_OCR_Contrast" Type="System.String" Scope="User">
+      <Value Profile="(Default)">31</Value>
+    </Setting>
+    <Setting Name="OP_OCR_Gamma" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.98</Value>
+    </Setting>
+    <Setting Name="OP_OCR_Language" Type="System.String" Scope="User">
+      <Value Profile="(Default)">big</Value>
+    </Setting>
+    <Setting Name="OP_OCR_Confidence" Type="System.String" Scope="User">
+      <Value Profile="(Default)">67</Value>
+    </Setting>
+    <Setting Name="OP_OCR_ScalingFactor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="OP_OCR_Grayscale_Type" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="OP_OCR_Black_Threshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">65</Value>
+    </Setting>
+    <Setting Name="offline_testing" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="WIN_Default_Min_Size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1180, 600</Value>
+    </Setting>
+    <Setting Name="WIN_OCR_DEF_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1090, 600</Value>
+    </Setting>
+    <Setting Name="WIN_SYSADD_DEF_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">715, 600</Value>
+    </Setting>
+    <Setting Name="WIN_BC_DEF_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1250, 600</Value>
+    </Setting>
+    <Setting Name="WIN_BS_DEF_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1130, 600</Value>
+    </Setting>
+    <Setting Name="WIN_FT_DEF_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1150, 625</Value>
+    </Setting>
+    <Setting Name="WIN_MC_DEF_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">605, 570</Value>
+    </Setting>
+    <Setting Name="OP_OCR_DeleteScreenshot" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OP_OCR_ScreenshotDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SpecialDirectories.MyPictures + "\Frontier Developments\Elite Dangerous"</Value>
+    </Setting>
+    <Setting Name="WIN_OCR_USR_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1090, 600</Value>
+    </Setting>
+    <Setting Name="WIN_SYSADD_USR_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">715, 600</Value>
+    </Setting>
+    <Setting Name="WIN_BS_USR_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1130, 600</Value>
+    </Setting>
+    <Setting Name="WIN_BC_USR_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1250, 600</Value>
+    </Setting>
+    <Setting Name="WIN_FT_USR_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1450, 625</Value>
+    </Setting>
+    <Setting Name="WIN_COM_USR_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1150, 600</Value>
+    </Setting>
+    <Setting Name="WIN_MC_USR_SIZE" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">605, 570</Value>
+    </Setting>
+    <Setting Name="OP_OCR_PVariance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="GEN_UPGRADE_FLAG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
